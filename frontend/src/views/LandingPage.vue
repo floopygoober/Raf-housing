@@ -1,7 +1,7 @@
 <template>
     <div class="landing-page">
         <h1>Welcome to Raf Housing, Where we house them rafs</h1>
-        <p>This is the landing page :).</p>
+        <p>This is the landing page :D.</p>
 
 
     </div>
@@ -9,6 +9,8 @@
 
 <script>
     import LeaderboardSummary from '../components/LeaderboardSummary.vue'
+    import JimmyComponent from '../components/JimmyComponent.vue'
+
 
     export default {
         name: 'LandingPage',
